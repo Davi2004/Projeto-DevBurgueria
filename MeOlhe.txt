@@ -1,0 +1,1 @@
+Para  rodar esse projeto após o fechamento do VsCode, use o LiveServer normalmente e abra o CMD e navegue até a pasta do arquivo, escreva no Prompt ( "npm run dev" )
