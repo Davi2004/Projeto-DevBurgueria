@@ -1,4 +1,4 @@
-<h1 align="center"> BarberScript </h1>
+<h1 align="center"> BurguerScript </h1>
 
 <p align="center"> Programa exclusivo e gratuito, criado pelo &copy;SujeitoProgramador. </p>
 
