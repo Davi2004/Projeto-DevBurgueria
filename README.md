@@ -3,7 +3,7 @@
 <p align="center"> Programa exclusivo e gratuito, criado pelo &copy;SujeitoProgramador. </p>
 
 <p align="center">
-  <img alt="projeto DevFisio" src="./.github/Captura de tela 2024-07-25 112719.png" width="100%">
+  <img alt="projeto DevFisio" src="./assets/Captura de tela 2024-07-25 112719.png" width="100%">
 </p>
 
 🚀 Tecnologias
